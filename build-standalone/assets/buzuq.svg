@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="badGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF1744" />
+      <stop offset="100%" stop-color="#B71C1C" />
+    </linearGradient>
+  </defs>
+  <!-- Fon doirasi -->
+  <circle cx="60" cy="60" r="54" fill="#240D11" stroke="url(#badGlow)" stroke-width="3" />
+  
+  <!-- Singan chap asfalt qismi -->
+  <path d="M38,28 L30,92 L54,92 L50,68 L58,54 L52,40 L56,28 Z" fill="#382225" />
+  
+  <!-- Singan o'ng asfalt qismi -->
+  <path d="M64,28 L60,40 L66,54 L58,68 L62,92 L90,92 L82,28 Z" fill="#382225" />
+  
+  <!-- O'rtadagi keskin yoriq (Crack) -->
+  <path d="M60,24 L54,38 L62,54 L52,70 L58,94" fill="none" stroke="#FF1744" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Xavf toshlari / to'siq bo'laklari -->
+  <circle cx="44" cy="78" r="3" fill="#FF5252" />
+  <circle cx="74" cy="74" r="4" fill="#FF5252" />
+  <circle cx="70" cy="46" r="2.5" fill="#FF5252" />
+  
+  <!-- Holat belgisi: Undov belgisi (!) -->
+  <circle cx="92" cy="30" r="14" fill="#D50000" stroke="#FFF" stroke-width="1.5" />
+  <line x1="92" y1="23" x2="92" y2="30" stroke="#FFF" stroke-width="3" stroke-linecap="round" />
+  <circle cx="92" cy="36" r="1.5" fill="#FFF" />
+</svg>

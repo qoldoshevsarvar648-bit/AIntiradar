@@ -1,0 +1,42 @@
+{
+  "hazards": [
+    {
+      "id": "hz_1791912949967_1dhcp",
+      "type": "TRIPOD_RADAR",
+      "name": "3 Oyoq Radar",
+      "lat": 41.3111,
+      "lon": 69.2797,
+      "heading": 0,
+      "description": "",
+      "reporterId": "test_user",
+      "trustScore": 5,
+      "upvotes": 1,
+      "downvotes": 0,
+      "createdAt": 1791912949967,
+      "updatedAt": 1791912949967
+    }
+  ],
+  "radarReviews": {
+    "1": [
+      {
+        "id": "rev_1791912956723",
+        "radarId": "1",
+        "verdict": "radar_bor",
+        "text": "3-qatorni oladi, faol ishlayapti",
+        "image": null,
+        "userId": "driver_1",
+        "timestamp": 1791912956723
+      }
+    ]
+  },
+  "radarScores": {
+    "1": {
+      "score": 5,
+      "up": 6,
+      "down": 0,
+      "mulyaj": 0,
+      "total": 6,
+      "isMulyaj": false
+    }
+  }
+}

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="roughGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9100" />
+      <stop offset="100%" stop-color="#FF3D00" />
+    </linearGradient>
+  </defs>
+  <!-- Fon doirasi -->
+  <circle cx="60" cy="60" r="54" fill="#26170E" stroke="url(#roughGlow)" stroke-width="3" />
+  
+  <!-- Yo'l asfalti -->
+  <path d="M38,28 L30,92 L90,92 L82,28 Z" fill="#2E2622" />
+  
+  <!-- Keskin o'nqir-cho'nqir profil -->
+  <path d="M22,66 L34,66 L40,54 L48,76 L56,58 L64,72 L72,56 L78,66 L98,66" fill="none" stroke="#FF6D00" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Chuqurcha/Pothole izi -->
+  <ellipse cx="60" cy="84" rx="14" ry="5" fill="#140D09" stroke="#FF6D00" stroke-width="2" />
+  
+  <!-- Vertikal silkinish ko'rsatkichlari -->
+  <path d="M48,42 L48,32 M60,40 L60,26 M72,42 L72,32" stroke="#FF9100" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Holat belgisi: Notekis tepaliklar -->
+  <circle cx="92" cy="30" r="14" fill="#FF6D00" />
+  <path d="M84,33 Q88,23 92,31 Q96,25 100,33" fill="none" stroke="#FFF" stroke-width="2.5" stroke-linecap="round" />
+</svg>

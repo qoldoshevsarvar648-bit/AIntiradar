@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AIntiRADAR</string>
+    <string name="google_maps_key" translatable="false">AIzaSyCp9pUDJIqnD9phXAGsZObG3OGKTdp_IhY</string>
+</resources>

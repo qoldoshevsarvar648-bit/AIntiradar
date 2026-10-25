@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="smoothGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E676" />
+      <stop offset="100%" stop-color="#00A844" />
+    </linearGradient>
+  </defs>
+  <!-- Fon doirasi -->
+  <circle cx="60" cy="60" r="54" fill="#0D1F17" stroke="url(#smoothGlow)" stroke-width="3" />
+  
+  <!-- Yo'l asfalti -->
+  <path d="M38,28 L30,92 L90,92 L82,28 Z" fill="#242B35" />
+  
+  <!-- Chekka chiziqlar -->
+  <line x1="38" y1="28" x2="30" y2="92" stroke="#455A64" stroke-width="3" />
+  <line x1="82" y1="28" x2="90" y2="92" stroke="#455A64" stroke-width="3" />
+  
+  <!-- Markaziy uzuq-uzuq chiziqlar -->
+  <line x1="60" y1="32" x2="60" y2="44" stroke="#00E676" stroke-width="4" stroke-linecap="round" />
+  <line x1="60" y1="54" x2="60" y2="68" stroke="#00E676" stroke-width="4" stroke-linecap="round" />
+  <line x1="60" y1="78" x2="60" y2="90" stroke="#00E676" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Tasdiq belgisi -->
+  <circle cx="92" cy="30" r="14" fill="#00E676" />
+  <path d="M86,30 L90,34 L98,25" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
