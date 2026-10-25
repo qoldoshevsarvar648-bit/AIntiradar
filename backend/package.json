@@ -1,6 +1,6 @@
 {
   "name": "aintiradar-backend",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "AIntiRADAR Global Cloud Backend - Real-time Hazards and Radar Trust Crowdsourcing",
   "main": "server.js",
   "scripts": {

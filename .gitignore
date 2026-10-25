@@ -1,6 +1,9 @@
 # Build artifacts
+*.apk
 *.idsig
 *.mbtiles
+
+# Build Standalone output
 build-standalone/bin/
 build-standalone/classes/
 build-standalone/gen/
